@@ -61,5 +61,7 @@ const diagonals = (letters) => {
 };
  
 module.exports = wordSearch;
+
+//peer programmed with Gulam Murtaza
   
   
